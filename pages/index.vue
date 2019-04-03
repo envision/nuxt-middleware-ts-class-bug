@@ -31,7 +31,7 @@ export default {
   components: {
     Logo
   },
-  middleware: ['vanilla']
+  middleware: ['typescript']
 }
 </script>
 
